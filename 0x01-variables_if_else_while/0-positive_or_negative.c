@@ -3,10 +3,12 @@
 #include <stdio.h>
 /* more headers goes there */
 
-/* betty style doc for function main goes ther
- *if n is greater than 0
- *if n is equal to zero
- *if n is less than zero
+/**
+ * betty style doc for function main goes there
+ *
+ * main - Determines if a number is positive, negative or zero.
+ *
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
